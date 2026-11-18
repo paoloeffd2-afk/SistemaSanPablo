@@ -1,0 +1,12 @@
+SISTEMA SAN PABLO - version simple
+
+ABRIR LA APLICACION (ventana normal):
+  Doble clic en  Iniciar.bat   (la primera vez instala el cifrado solo; necesita internet)
+  o doble clic en SistemaSanPablo.pyw si ya esta instalado.
+
+EN VISUAL STUDIO:
+  Archivo > Abrir > Carpeta... y elegir esta carpeta. Clic derecho en main.py > "Establecer como elemento de inicio".
+  Para depurar se necesita Python 3.10 o superior. Sin depurar: Ctrl+F5.
+
+Si falla al arrancar, se muestra una ventana con el motivo y se guarda error.log.
+Requisitos: Python 3.10+ con tkinter (viene incluido en el instalador de python.org).
